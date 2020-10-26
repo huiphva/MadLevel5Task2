@@ -9,4 +9,10 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_button_desc">Add Button</string>
+    <string name="input_title">Title:</string>
+    <string name="input_platform">Platform:</string>
+    <string name="input_month">Month:</string>
+    <string name="input_year">Year:</string>
+    <string name="input_day">Day:</string>
 </resources>
