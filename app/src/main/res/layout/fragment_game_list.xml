@@ -7,19 +7,6 @@
     android:background="@color/colorBackgroundDark"
     tools:context=".view.GameListFragment">
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/fabAddGame"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="25dp"
-        android:layout_marginBottom="25dp"
-        android:clickable="true"
-        android:focusable="true"
-        android:tint="@android:color/white"
-        android:src="@android:drawable/ic_input_add"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:contentDescription="@string/add_button_desc" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvGames"

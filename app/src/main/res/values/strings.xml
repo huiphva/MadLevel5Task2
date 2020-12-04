@@ -15,4 +15,11 @@
     <string name="input_month">Month:</string>
     <string name="input_year">Year:</string>
     <string name="input_day">Day:</string>
+    <string name="fab">FAB</string>
+    <string name="addTitle">Add Title</string>
+    <string name="addPlatform">Add Platform</string>
+    <string name="addDay">Day</string>
+    <string name="addMonth">Month</string>
+    <string name="addYear">Year</string>
+    <string name="addGameTitle">Add Game</string>
 </resources>
